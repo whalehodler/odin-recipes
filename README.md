@@ -1,0 +1,2 @@
+Current project is about recipes that I use to cook waffles for breakfast and some lunches.
+Upon completion I will have demonstrated my skills with what've learned so far about html (tags, elements, etc)
